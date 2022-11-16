@@ -9,7 +9,7 @@ function Header() {
     
   return (
     <div className='flex justify-center'>
-        <div className='w-3/12 '>
+        <div className='w-2/5'>
             <h1 className='font'>Rent a <span className='colori'>Place</span> away from <span  className='colori'>Home</span> in the <span  className='colori'>Metaverse</span></h1>
             <p className='fonti '>we provide you access to luxury and affordable houses in the metaverse, get a chance to turn your imagination to reality at comfort zone </p>
             
