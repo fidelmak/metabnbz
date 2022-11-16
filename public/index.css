@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Red+Rose:wght@300;400&display=swap');
+
+
+.color{
+    background-color: #a02279;
+}
+.colori{
+    color:#a02279;
+}
+.font{
+    font-family: 'Red Rose', cursive;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 45.4px;
+}
+.fonti{
+    font-family: 'Red Rose', cursive;
+    font-size: 14px;
+}

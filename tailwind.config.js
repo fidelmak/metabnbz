@@ -4,10 +4,30 @@ module.exports = {
   theme: {
     extend: {
       colors:{
-        primary:"#ff6363",
-        100:'#e2e2ds',
-        200:'#888883'
+        pri:"#a02279"
+      },
+      width:{
+        w1:"98.1px",
+        w2:"31.99px",
+        w3:"1240px"
+        
+      },
+      height:{
+        h1:"24.19px",
+        h2:"24.37px",
+        h3:"48px"
+
+      },
+      fontFamily: {
+        'rose': ['Red Rose'],
+        'serif': ['ui-serif', 'Georgia'],
+        'mono': ['ui-monospace', 'SFMono-Regular'],
+        'display': ['Oswald'],
+        'body': ['"Open Sans"'],
       }
+
+      
+
     },
   },
   variants:{},

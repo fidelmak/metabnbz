@@ -1,28 +1,16 @@
 import  Nav  from "./Nav";
 import {BrowserRouter as Router, Routes, Route} from "react-router-dom"
+import Header from "./Header";
 
 function App() {
   return (
-    <Router>
+    
     <div>
-    <Routes>
-        <Route path='/checkout'> 
-        <Nav />
-       
-        </Route>
-        <Route path='/login'> <h1>login page</h1> </Route>
-        <Route path='/'> 
-        
-
-        
-        
-        
-         </Route>
-      </Routes>
-      
-      
+      <Nav />
+      <Header />
+    
     </div>
-    </Router>
+    
   );
 }
 
